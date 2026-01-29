@@ -72,7 +72,3 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhammadfiazbhk/)
 
 ---
-
-### Philosophy
-
-> Build things that work. Measure results. Ship improvements fast.

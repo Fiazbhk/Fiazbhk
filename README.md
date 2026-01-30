@@ -36,7 +36,7 @@
 
 ## Teaching Experience
 **Trainer & Moderator — iCodeGuru**  
-- Python fundamentals for beginners  
+- [Python fundamentals](https://github.com/Fiazbhk/Python-For-Absolute-Beginners) for beginners  
 - DSA with LeetCode-driven problem solving  
 - Git, GitHub, and ML foundations
 

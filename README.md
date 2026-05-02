@@ -26,11 +26,31 @@
 
 ## Current Projects
 
-- 📄 **[Paperaxis](https://github.com/Fiazbhk/Paperaxis-AI-Powered-Research-Paper-Analysis)**  AI-powered research paper analysis with RAG, PDF ingestion, embeddings, and LLM chat  
+### Artificial Intelligence and Deep Learning
+- 🦴 **[Bone Fracture Detection](https://github.com/Fiazbhk/Bone-Fracture-Classification-Using-Deep-Learning)** Bone fracture classification from multi-region X-rays using EfficientNetB4 with **98.02% accuracy**
+- 🧠 **[Brain Tumor Classification](https://github.com/Fiazbhk/Brain-Tumor-Classification-Using-EfficientNetB0)** Brain MRI tumor classification using EfficientNetB0 with transfer learning
+- 🧬 **[OncoPredict](https://github.com/Fiazbhk/OncoPredict-AI-powered-Breast-Cancer-Risk-Assessment)** Breast cancer risk prediction using SVM with **98%+ accuracy**
+- 📄 **[Paperaxis](https://github.com/Fiazbhk/Paperaxis-AI-Powered-Research-Paper-Analysis)** AI-powered research paper analysis with RAG, PDF ingestion, embeddings, and LLM chat
+- 💬 **[Chat With CSV Agent](https://github.com/Fiazbhk/Chat-With-CSV-Agent)** Conversational AI agent that answers natural language questions from CSV files
 
-- 🧬 **[OncoPredict](https://github.com/Fiazbhk/OncoPredict-AI-powered-Breast-Cancer-Risk-Assessment)**  Breast cancer risk prediction using SVM with (**98%+ accuracy**)  
+### Machine Learning and NLP
+- 📩 **[SMS Spam Classifier](https://github.com/Fiazbhk/SMS-Classifier)** Naive Bayes NLP classifier trained on 5,572 messages
+- 😊 **[SentimentIQ](https://github.com/Fiazbhk/SentimentIQ-Tweet-Sentiment-Classifier)** Tweet sentiment classifier using NLP and machine learning
+- 📉 **[Customer Churn Prediction](https://github.com/Fiazbhk/Customer-Churn-Prediction-App)** Customer churn prediction app with interpretable ML models
+- 🌐 **[Network Traffic Anomaly Detector](https://github.com/Fiazbhk/Network-Traffic-Anomaly-Detector)** Unsupervised anomaly detection on network traffic logs
+- 🎫 **[IT Helpdesk Ticket Classifier](https://github.com/Fiazbhk/IT-Helpdesk-Ticket-Classifier)** Automated support ticket categorization using NLP
 
-- 📩 **[SMS Spam Classifier](https://github.com/Fiazbhk/SMS-Classifier)**  Naive Bayes–based NLP classifier trained on 5,572 messages  
+### Data Analysis and SQL
+- ✈️ **[Airline Data Analysis](https://github.com/Fiazbhk/Airline-Data-Analysis)** Exploratory analysis of airline operations and performance data
+- 🏨 **[Hotel Booking Analysis](https://github.com/Fiazbhk/Hotel-Booking-Analysis)** Hotel booking trends and cancellation analysis using Python
+- 🛒 **[SQL Consumer Goods Analysis](https://github.com/Fiazbhk/SQL-Project-Consumer-Goods-Adhoc-Requests)** Ad hoc business queries for a consumer goods company using SQL
+
+---
+
+## International Hackathons
+- 🚦 **[InteliRoute](https://github.com/Fiazbhk/InteliRoute)** AI-powered smart route optimization system
+- 🤖 **[Gemini 3 Hackathon](https://github.com/Fiazbhk/Gemini-3-Hackathon)** Project built during the Google Gemini hackathon
+- 🚔 **[FIR Sahulat AI](https://github.com/Fiazbhk/FIR-Sahulat-AI)** AI assistant to simplify FIR filing for citizens in Pakistan
 
 ---
 
